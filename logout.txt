@@ -1,1 +1,1 @@
-This is the logout document.
+This is the logout document. Some new stuff to logout.
